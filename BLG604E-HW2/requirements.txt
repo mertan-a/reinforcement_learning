@@ -1,0 +1,9 @@
+gym[atari]==0.10.9
+IPython==6.5.0
+matplotlib==2.2.3
+numpy==1.15.4
+Box2D==2.3.2
+Pillow==5.2.0
+torch==0.4.1
+ipywidgets==7.4.1
+jupyter

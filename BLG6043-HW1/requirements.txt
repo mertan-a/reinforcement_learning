@@ -1,6 +1,0 @@
-gym>=0.10.9
-IPython>=6.5.0
-matplotlib==2.2.3
-numpy>=1.15.4
-six>=1.11.0
-jupyter
